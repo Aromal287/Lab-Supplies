@@ -23,8 +23,14 @@ body{
     padding: 0 10px;
 }
 .navbar-nav li a {
-    color: rgb(97, 63, 63) !important;
+    color: #fff !important;
     font-weight: 600;
+}
+@media(max-width:767px){
+    .navbar-nav li a {
+        color: rgb(88, 64, 133) !important;
+        font-weight: 600;
+    }
 }
 
 .navbar-toggler-icon {
