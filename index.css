@@ -50,7 +50,7 @@ body{
 /* <------------------------------banner section------------> */
 
 #banner{
-    background-image: linear-gradient(#073663,#C0C0C0);
+    background-image: linear-gradient(#32373b,#C0C0C0);
     color: #fff;
     padding-top: 5%;
 }
